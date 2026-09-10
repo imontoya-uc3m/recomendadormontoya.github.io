@@ -1,4 +1,4 @@
-# ¿A qué jugamos? — recomendador de la estantería Montoya
+# ¿A qué jugamos? — recomendador del armario de Iñigo Montoya
 
 Página estática que habla con Claude y recomienda juegos **solo** de los que hay
 en casa, filtrando por tiempo, número de jugadores y apetencia.
